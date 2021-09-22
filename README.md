@@ -1,7 +1,7 @@
-#HOTEL BOOKING ANALYSIS
+# HOTEL BOOKING ANALYSIS
 ---
 ---
-##**KPIS for Hotel Industry**
+## **KPIS for Hotel Industry**
 
 ---
 1.   Occupancy
