@@ -123,4 +123,6 @@ This metric in kpi hospitality needs to be monitored as it is essential for the 
 >Reservation last status, assuming one of three categories: Canceled – booking was canceled by the customer; Check-Out – customer has checked in but already departed; No-Show – customer did not check-in and did inform the hotel of the reason why
 
 31. reservation_status_date
->Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the
+>Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel.
+
+
