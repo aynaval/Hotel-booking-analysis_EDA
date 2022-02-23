@@ -6,7 +6,7 @@ Hotel booking analysis
 #### -- Project Status: Completed
 
 ## Project Intro/Objective
-The purpose of this project is to do exploratory data analysis on Hotel bookind analysis dataset.
+The purpose of this project is to do exploratory data analysis on **Hotel booking** dataset.
 
 ### Methods Used
 * Inferential Statistics
