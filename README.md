@@ -34,10 +34,7 @@ Outliers were detected and removed.
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/tree/main/Data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
+2. Raw Data is being kept [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/tree/main/Data) within this repo.  
 3. Data processing/transformation scripts are being kept [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/blob/main/Team_notebook_Hotel_booking_analysis.ipynb)
 4. Presentation of project can be found here [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/blob/main/Hotel%20booking%20analysis%20ppt.pdf)
   
