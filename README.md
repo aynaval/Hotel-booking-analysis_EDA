@@ -21,7 +21,10 @@ The purpose of this project is to do exploratory data analysis on Hotel bookind 
 * Go
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+Exploratory data analysis has been performed on **Hotel booking data**.  
+Data has 119390 rows and 32 columns.  
+Columns with high missing values were dropped and columns with few missing values were imputed with either mean or mode.  
+Outliers were detected and removed.  
 
 ## Needs of this project
 - data exploration/descriptive statistics
@@ -31,21 +34,14 @@ The purpose of this project is to do exploratory data analysis on Hotel bookind 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Raw Data is being kept [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/tree/main/Data) within this repo.
 
     *If using offline data mention that and how they may obtain the data from the froup)*
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+3. Data processing/transformation scripts are being kept [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/blob/main/Team_notebook_Hotel_booking_analysis.ipynb)
+4. Presentation of project can be found here [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/blob/main/Hotel%20booking%20analysis%20ppt.pdf)
+  
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
 
 
 
