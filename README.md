@@ -33,7 +33,7 @@ Outliers were detected and removed.
 
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+1. Clone this repo .
 2. Raw Data is being kept [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/tree/main/Data) within this repo.  
 3. Data processing/transformation scripts are being kept [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/blob/main/Team_notebook_Hotel_booking_analysis.ipynb)
 4. Presentation of project can be found here [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/blob/main/Hotel%20booking%20analysis%20ppt.pdf)
@@ -43,8 +43,8 @@ Outliers were detected and removed.
 
 |Name     |  
 |---------|
-|Kushan Sharma (https://github.com/Kushan1001])| 
-|[Full Name](https://github.com/[github handle]) |     
+|[Kushan Sharma] (https://github.com/Kushan1001)| 
+|[Kishan Kumar Singh](https://github.com/Kishan459) |     
 
 
 
