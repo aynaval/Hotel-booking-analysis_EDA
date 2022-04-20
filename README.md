@@ -39,6 +39,13 @@ Outliers were detected and removed.
 4. Presentation of project can be found here [here](https://github.com/aynaval/Hotel-booking-analysis_EDA/blob/main/Hotel%20booking%20analysis%20ppt.pdf)
   
 
+#### Other Members:
+
+|Name     |  
+|---------|
+|Kushan Sharma (https://github.com/Kushan1001])| 
+|[Full Name](https://github.com/[github handle]) |     
+
 
 
 
