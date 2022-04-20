@@ -43,7 +43,7 @@ Outliers were detected and removed.
 
 |Name     |  
 |---------|
-|[Kushan Sharma] (https://github.com/Kushan1001)| 
+|[Kushan Sharma](https://github.com/Kushan1001)| 
 |[Kishan Kumar Singh](https://github.com/Kishan459) |     
 
 
