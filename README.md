@@ -1,6 +1,6 @@
 
 
-# Project Name Hotel booking analysis
+# Project Name: Hotel booking analysis
 
 #### -- Project Status: Completed
 
